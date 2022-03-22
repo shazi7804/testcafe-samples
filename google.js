@@ -1,4 +1,4 @@
-import GoogleHome from "./page-objects/google";
+import GoogleHome from "./page-objects/google/home";
 
 fixture`Getting Started`
     .page`https://google.com/`;
